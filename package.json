@@ -2,7 +2,7 @@
   "name": "cardio-risk-predictor",
   "version": "0.1.0",
   "private": true,
-  "proxy": "http://44cfdc8d-9f1c-44e2-ba27-84ecec2ff581.germanywestcentral.azurecontainer.io",
+  "proxy": "http://2a1a8c9d-1a30-44f7-8235-453d53eedaf3.germanywestcentral.azurecontainer.io",
   "dependencies": {
     "cra-template": "1.2.0",
     "react": "^19.0.0",
